@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mrunknown0001
-- 👀 I’m interested in programming, robotics, ethical hacking, and cloud
+- 👀 I’m interested in programming, robotics, ethical hacking, cloud computing and AI
 - 🌱 Learning new things constantly
 - 📫 How to reach me, click ==> https://mrunknown0001.github.io
 - I love nature and animals!
