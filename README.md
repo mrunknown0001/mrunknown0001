@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mrunknown0001
+- 👋 Hi, I’m Michael Adam
 - 👀 I’m interested in programming, robotics, ethical hacking, cloud computing and AI
 - 🌱 Learning new things constantly
 - 📫 How to reach me, click ==> https://mrunknown0001.github.io
