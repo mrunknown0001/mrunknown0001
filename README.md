@@ -2,9 +2,8 @@
 - 👀 I’m interested in programming, robotics, ethical hacking, cloud computing and AI
 - 🌱 Learning new things constantly
 - 📫 How to reach me, click ==> https://mrunknown0001.github.io
-- I love nature and animals!
+-  I love nature 🌳 and animals 🐶!
 
-<!---
-mrunknown0001/mrunknown0001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrunknown0001&show_icons=true&theme=radical)
