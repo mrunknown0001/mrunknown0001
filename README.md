@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Michael Adam
-- 👀 I’m interested in programming, robotics, ethical hacking, cloud computing and AI
+- 👀 I’m interested in programming, IoT, ethical hacking, cloud computing and AI
 - 🌱 Learning new things constantly
 - 📫 How to reach me, click ==> https://mrunknown0001.github.io
 -  I love nature 🌳 and animals 🐶!
